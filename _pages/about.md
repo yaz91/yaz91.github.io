@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, <a href='#'>Department of Computer Science</a>, the College of William and Mary.
+subtitle: Assistant Professor, <a href="https://www.wm.edu/as/computerscience/">Department of Computer Science</a>, <a href="https://www.wm.edu/">the College of William and Mary</a>.
 
 profile:
   align: left
