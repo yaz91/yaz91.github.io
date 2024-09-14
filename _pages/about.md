@@ -19,7 +19,7 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am an assistant professor in the Department of Computer Science at the College of William and Mary. I have a Ph.D. in Electrical and Computer Engineering from the University of Pittsburgh, supervised by <a href="https://www.cs.umd.edu/~heng/">Prof. Heng Huang</a>. I studied at the University of Science and Technology of China, the University of Chinese Academy of Science, and the University of Rochester. My research interests include machine learning, data mining, and computer vision.
+I am an assistant professor in the Department of Computer Science at the College of William and Mary. I have a Ph.D. in Electrical and Computer Engineering from the University of Pittsburgh, supervised by <a href="https://www.cs.umd.edu/~heng/">Prof. Heng Huang</a>. I studied at the University of Science and Technology of China, the University of Chinese Academy of Science, and the University of Rochester. My research interests include machine learning, data mining, natural language processing, and computer vision.
 
 <span style="color:red">Multiple PhD Positions in Data Mining and Machine Learning at the College of William & Mary.</span>
 The College of William & Mary (WM) is the second oldest university in the US. WM is one of only eight U.S. universities designated a "Public Ivy." 
