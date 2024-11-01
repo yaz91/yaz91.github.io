@@ -23,7 +23,7 @@ I am an assistant professor in the Department of Computer Science at the College
 
 <span style="color:red">Multiple PhD Positions in Data Mining and Machine Learning at the College of William & Mary.</span>
 The College of William & Mary (WM) is the second oldest university in the US. WM is one of only eight U.S. universities designated a "Public Ivy." 
-Feel free to email me if you are interested in working with me. Students from all backgrounds are welcome.
+If you are interested in working with me, feel free to email me or submit this <a href="https://forms.gle/rWF96PhAzJDdPwpD8">Googe form</a>. Students from all backgrounds are welcome.
 
 <!---
 please submit this <a href="https://forms.gle/rWF96PhAzJDdPwpD8">Googe form</a>
