@@ -7,292 +7,191 @@ nav: true
 nav_order: 2
 ---
 
-### 2025
+### *2025*
 
-<ol>
-<li>
-<strong>Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization</strong><br/>
-Jiang, Maiqi and Nafee, Mahmud Wasif and Chen, Haipeng and Zhang, Yanfu<br/>
-Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)
-</li>
+- **Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization**  
+  Maiqi Jiang, Mahmud Wasif Nafee, Haipeng Chen, * **Yanfu Zhang** *  
+  *EMNLP 2025*
 
-<li>
-<strong>Controllable Memorization in LLMs via Weight Pruning</strong><br/>
-Ni, Chenjie and Wang, Zhepeng and Bao, Runxue and Gao, Shangqian and Zhang, Yanfu<br/>
-Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)
-</li>
+- **Controllable Memorization in LLMs via Weight Pruning**  
+  Chenjie Ni, Zhepeng Wang, Runxue Bao, Shangqian Gao, * **Yanfu Zhang** *  
+  *EMNLP 2025*
 
-<li>
-<strong>HCNQA: Enhancing 3D VQA with Hierarchical Concentration Narrowing Supervision</strong><br/>
-Zhou, Shengli and Zhu, Jianuo and Huang, Qilin and Wang, Fangjing and Zhang, Yanfu and Zheng, Feng<br/>
-International Conference on Artificial Neural Networks (ICANN)
-</li>
+- **HCNQA: Enhancing 3D VQA with Hierarchical Concentration Narrowing Supervision**  
+  Shengli Zhou, Jianuo Zhu, Qilin Huang, Fangjing Wang, * **Yanfu Zhang** *, Feng Zheng  
+  *ICANN*
 
-<li>
-<strong>CLEP-DG: Contrastive Learning for Speech Emotion Domain Generalization via Soft Prompt Tuning</strong><br/>
-Shi, Jiacheng and Zhang, Yanfu and Gao, Ye<br/>
-Proc. Interspeech 2025 (InterSpeech)
-</li>
+- **CLEP-DG: Contrastive Learning for Speech Emotion Domain Generalization via Soft Prompt Tuning**  
+  Jiacheng Shi, * **Yanfu Zhang** *, Ye Gao  
+  *Interspeech 2025*
 
-<li>
-<strong>Safe Screening Rules for Group OWL Models</strong><br/>
-Bao, Runxue and Lu, Quanchao and Zhang, Yanfu<br/>
-International Joint Conference on Neural Networks (IJCNN)
-</li>
+- **Safe Screening Rules for Group OWL Models**  
+  Runxue Bao, Quanchao Lu, * **Yanfu Zhang** *  
+  *IJCNN*
 
-<li>
-<strong>Safe Screening Rules for Group SLOPE</strong><br/>
-Bao, Runxue and Lu, Quanchao and Zhang, Yanfu<br/>
-Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML)
-</li>
+- **Safe Screening Rules for Group SLOPE**  
+  Runxue Bao, Quanchao Lu, * **Yanfu Zhang** *  
+  *ECML*
 
-<li>
-<strong>UniAV: Unified Audio-Visual Perception for Multi-Task Video Event Localization</strong><br/>
-Geng, Tiantian and Wang, Teng and Duan, Jinming and Zhang, Yanfu and Guan, Weili and Zheng, Feng and Shao, Ling<br/>
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-</li>
+- **UniAV: Unified Audio-Visual Perception for Multi-Task Video Event Localization**  
+  Tiantian Geng, Teng Wang, Jinming Duan, * **Yanfu Zhang** *, Weili Guan, Feng Zheng, Ling Shao  
+  *IEEE TPAMI*
 
-</ol>
 
-### 2024
+### *2024*
 
-<ol>
-<li>
-<strong>BilevelPruning: Unified Dynamic and Static Channel Pruning for Convolutional Neural Networks</strong><br/>
-Gao, Shangqian and Zhang, Yanfu and Huang, Feihu and Huang, Heng<br/>
-In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-</li>
+- **BilevelPruning: Unified Dynamic and Static Channel Pruning for Convolutional Neural Networks**  
+  Shangqian Gao, * **Yanfu Zhang** *, Feihu Huang, Heng Huang  
+  *CVPR 2024*
 
-<li>
-<strong>Device-Wise Federated Network Pruning</strong><br/>
-Gao, Shangqian and Li, Junyi and Zhang, Yanfu and Cai, Weidong and Huang, Heng<br/>
-In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-</li>
+- **Device-Wise Federated Network Pruning**  
+  Shangqian Gao, Junyi Li, * **Yanfu Zhang** *, Weidong Cai, Heng Huang  
+  *CVPR 2024*
 
-<li>
-<strong>Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch</strong><br/>
-Wu, Xidong and Gao, Shangqian and Zhang, Zeyu and Li, Zhenzhen and Bao, Runxue and Zhang, Yanfu and Wang, Xiaoqian and Huang, Heng<br/>
-In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-</li>
+- **Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch**  
+  Xidong Wu, Shangqian Gao, Zeyu Zhang, Zhenzhen Li, Runxue Bao, * **Yanfu Zhang** *, Xiaoqian Wang, Heng Huang  
+  *CVPR 2024*
 
-<li>
-<strong>Depth-Aware Concealed Crop Detection in Dense Agricultural Scenes</strong><br/>
-Wang, Liqiong and Yang, Jinyu and Zhang, Yanfu and Wang, Fangyi and Zheng, Feng<br/>
-In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-</li>
+- **Depth-Aware Concealed Crop Detection in Dense Agricultural Scenes**  
+  Liqiong Wang, Jinyu Yang, * **Yanfu Zhang** *, Fangyi Wang, Feng Zheng  
+  *CVPR 2024*
 
-<li>
-<strong>Brain Image Synthesis Using Incomplete Multimodal Data</strong><br/>
-Zhang, Yanfu and Bao, Runxue and Liu, Guodong and Zhan, Liang and Thompson, Paul M. and Huang, Heng<br/>
-2024 IEEE 21th International Symposium on Biomedical Imaging (ISBI)
-</li>
+- **Brain Image Synthesis Using Incomplete Multimodal Data**  
+  * **Yanfu Zhang** *, Runxue Bao, Guodong Liu, Liang Zhan, Paul M. Thompson, Heng Huang  
+  *ISBI 2024*
 
-<li>
-<strong>Neurodegenerative Disease Prediction via Transferable Deep Networks</strong><br/>
-Zhang, Yanfu and Bao, Runxue and Liu, Guodong and Zhan, Liang and Thompson, Paul M. and Huang, Heng<br/>
-2024 IEEE 21th International Symposium on Biomedical Imaging (ISBI)
-</li>
+- **Neurodegenerative Disease Prediction via Transferable Deep Networks**  
+  * **Yanfu Zhang** *, Runxue Bao, Guodong Liu, Liang Zhan, Paul M. Thompson, Heng Huang  
+  *ISBI 2024*
 
-<li>
-<strong>Edge-Aware Dual Branch Network for Nucleus Instance Segmentation</strong><br/>
-Chen, Junzhou and Zhang, Yanfu and Lu, Sidi<br/>
-2024 IEEE/ACM Symposium on Edge Computing (SEC) / International Workshop on Smart Moving
-</li>
+- **Edge-Aware Dual Branch Network for Nucleus Instance Segmentation**  
+  Junzhou Chen, * **Yanfu Zhang** *, Sidi Lu  
+  *SEC / Smart Moving*
 
-</ol>
 
-### 2023
+### *2023*
 
-<ol>
-<li>
-<strong>Interindividual Variability in Self-Monitoring of Blood Pressure Using Consumer-Purchased Wireless Devices</strong><br/>
-Zheng, Yaguang and Zhang, Yanfu and Huang, Heng and Tison, Geoffrey H and Burke, Lora E and Blecker, Saul and Dickson, Victoria Vaughan and Olgin, Jeffrey E and Marcus, Gregory M and Pletcher, Mark J<br/>
-Nursing Research
-</li>
+- **Interindividual Variability in Self-Monitoring of Blood Pressure Using Consumer-Purchased Wireless Devices**  
+  Yaguang Zheng, * **Yanfu Zhang** *, Heng Huang, Geoffrey H Tison, Lora E Burke, Saul Blecker, Victoria Vaughan Dickson, Jeffrey E Olgin, Gregory M Marcus, Mark J Pletcher  
+  *Nursing Research*
 
-<li>
-<strong>Structural Alignment for Network Pruning through Partial Regularization</strong><br/>
-Gao, Shangqian and Zhang, Zeyu and Zhang, Yanfu and Huang, Feihu and Huang, Heng<br/>
-Proceedings of the IEEE/CVF International Conference on Computer Vision
-</li>
+- **Structural Alignment for Network Pruning through Partial Regularization**  
+  Shangqian Gao, Zeyu Zhang, * **Yanfu Zhang** *, Feihu Huang, Heng Huang  
+  *ICCV 2023*
 
-<li>
-<strong>Investigating the effect of neuropsychiatric symptoms on Alzheimer’s diagnosis using multi-modal brain networks</strong><br/>
-Guo, Lei and Zhang, Yanfu and Tang, Haoteng and Mackin, Scott R and Thompson, Paul M and Huang, Heng and Zhan, Liang<br/>
-Alzheimer's & Dementia
-</li>
+- **Investigating the effect of neuropsychiatric symptoms on Alzheimer’s diagnosis using multi-modal brain networks**  
+  Lei Guo, * **Yanfu Zhang** *, Haoteng Tang, Scott R Mackin, Paul M Thompson, Heng Huang, Liang Zhan  
+  *Alzheimer's & Dementia*
 
-<li>
-<strong>A Comprehensive Survey of Complex Brain Network Representation</strong><br/>
-Tang, Haoteng and Ma, Guixiang and Zhang, Yanfu and Ye, Kai and Guo, Lei and Liu, Guodong and Huang, Qi and Wang, Yalin and Ajilore, Olusola and Leow, Alex D and others<br/>
-Meta-Radiology
-</li>
+- **A Comprehensive Survey of Complex Brain Network Representation**  
+  Haoteng Tang, Guixiang Ma, * **Yanfu Zhang** *, Kai Ye, Lei Guo, Guodong Liu, Qi Huang, Yalin Wang, Olusola Ajilore, Alex D Leow, et al.  
+  *Meta-Radiology*
 
-</ol>
 
-### 2022
+### *2022*
 
-<ol>
-<li>
-<strong>Robust Self-Supervised Structural Graph Neural Network for Social Network Prediction</strong><br/>
-Zhang, Yanfu and Gao, Hongchang and Pei, Jian and Huang, Heng<br/>
-Proceedings of the ACM Web Conference 2022
-</li>
+- **Robust Self-Supervised Structural Graph Neural Network for Social Network Prediction**  
+  * **Yanfu Zhang** *, Hongchang Gao, Jian Pei, Heng Huang  
+  *WWW 2022*
 
-<li>
-<strong>Improving social network embedding via new second-order continuous graph neural networks</strong><br/>
-Zhang, Yanfu and Gao, Shangqian and Pei, Jian and Huang, Heng<br/>
-Proceedings of the 28th ACM SIGKDD conference on knowledge discovery and data mining
-</li>
+- **Improving social network embedding via new second-order continuous graph neural networks**  
+  * **Yanfu Zhang** *, Shangqian Gao, Jian Pei, Heng Huang  
+  *KDD 2022*
 
-<li>
-<strong>SECANT: a biology-guided semi-supervised method for clustering, classification, and annotation of single-cell multi-omics</strong><br/>
-Wang, Xinjun and Xu, Zhongli and Hu, Haoran and Zhou, Xueping and Zhang, Yanfu and Lafyatis, Robert and Chen, Kong and Huang, Heng and Ding, Ying and Duerr, Richard H and others<br/>
-PNAS nexus
-</li>
+- **SECANT: a biology-guided semi-supervised method for clustering, classification, and annotation of single-cell multi-omics**  
+  Xinjun Wang, Zhongli Xu, Haoran Hu, Xueping Zhou, * **Yanfu Zhang** *, Robert Lafyatis, Kong Chen, Heng Huang, Ying Ding, Richard H Duerr, et al.  
+  *PNAS Nexus*
 
-<li>
-<strong>Recover fair deep classification models via altering pre-trained structure</strong><br/>
-Zhang, Yanfu and Gao, Shangqian and Huang, Heng<br/>
-European Conference on Computer Vision
-</li>
+- **Recover fair deep classification models via altering pre-trained structure**  
+  * **Yanfu Zhang** *, Shangqian Gao, Heng Huang  
+  *ECCV 2022*
 
-<li>
-<strong>Disentangled differentiable network pruning</strong><br/>
-Gao, Shangqian and Huang, Feihu and Zhang, Yanfu and Huang, Heng<br/>
-European Conference on Computer Vision
-</li>
+- **Disentangled differentiable network pruning**  
+  Shangqian Gao, Feihu Huang, * **Yanfu Zhang** *, Heng Huang  
+  *ECCV 2022*
 
-<li>
-<strong>Toward Unified Data and Algorithm Fairness via Adversarial Data Augmentation and Adaptive Model Fine-tuning</strong><br/>
-Zhang, Yanfu and Bao, Runxue and Pei, Jian and Huang, Heng<br/>
-2022 IEEE International Conference on Data Mining (ICDM)
-</li>
+- **Toward Unified Data and Algorithm Fairness via Adversarial Data Augmentation and Adaptive Model Fine-tuning**  
+  * **Yanfu Zhang** *, Runxue Bao, Jian Pei, Heng Huang  
+  *ICDM 2022*
 
-</ol>
 
-### 2021
+### *2021*
 
-<ol>
-<li>
-<strong>Disentangled and proportional representation learning for multi-view brain connectomes</strong><br/>
-Zhang, Yanfu and Zhan, Liang and Wu, Shandong and Thompson, Paul and Huang, Heng<br/>
-Medical Image Computing and Computer Assisted Intervention--MICCAI 2021: 24th International Conference, Strasbourg, France, September 27--October 1, 2021, Proceedings, Part VII 24
-</li>
+- **Disentangled and proportional representation learning for multi-view brain connectomes**  
+  * **Yanfu Zhang** *, Liang Zhan, Shandong Wu, Paul Thompson, Heng Huang  
+  *MICCAI 2021*
 
-<li>
-<strong>Learning better visual data similarities via new grouplet non-euclidean embedding</strong><br/>
-Zhang, Yanfu and Luo, Lei and Xian, Wenhan and Huang, Heng<br/>
-Proceedings of the IEEE/CVF International Conference on Computer Vision
-</li>
+- **Learning better visual data similarities via new grouplet non-euclidean embedding**  
+  * **Yanfu Zhang** *, Lei Luo, Wenhan Xian, Heng Huang  
+  *ICCV 2021*
 
-<li>
-<strong>Exploration and estimation for model compression</strong><br/>
-Zhang\*, Yanfu and Gao\*, Shangqian and Huang, Heng<br/>
-Proceedings of the IEEE/CVF International Conference on Computer Vision
-</li>
+- **Exploration and estimation for model compression**  
+  * **Yanfu Zhang** *, Shangqian Gao, Heng Huang  
+  *ICCV 2021*
 
-<li>
-<strong>Unified fairness from data to learning algorithm</strong><br/>
-Zhang, Yanfu and Luo, Lei and Huang, Heng<br/>
-2021 IEEE International Conference on Data Mining (ICDM)
-</li>
+- **Unified fairness from data to learning algorithm**  
+  * **Yanfu Zhang** *, Lei Luo, Heng Huang  
+  *ICDM 2021*
 
-<li>
-<strong>A faster decentralized algorithm for nonconvex minimax problems</strong><br/>
-Xian, Wenhan and Huang, Feihu and Zhang, Yanfu and Huang, Heng<br/>
-Advances in Neural Information Processing Systems
-</li>
+- **A faster decentralized algorithm for nonconvex minimax problems**  
+  Wenhan Xian, Feihu Huang, * **Yanfu Zhang** *, Heng Huang  
+  *NeurIPS 2021*
 
-</ol>
 
-### 2020
+### *2020*
 
-<ol>
-<li>
-<strong>BREM-SC: a bayesian random effects mixture model for joint clustering single cell multi-omics data</strong><br/>
-Wang, Xinjun and Sun, Zhe and Zhang, Yanfu and Xu, Zhongli and Xin, Hongyi and Huang, Heng and Duerr, Richard H and Chen, Kong and Ding, Ying and Chen, Wei<br/>
-Nucleic acids research
-</li>
+- **BREM-SC: a bayesian random effects mixture model for joint clustering single cell multi-omics data**  
+  Xinjun Wang, Zhe Sun, * **Yanfu Zhang** *, Zhongli Xu, Hongyi Xin, Heng Huang, Richard H Duerr, Kong Chen, Ying Ding, Wei Chen  
+  *Nucleic Acids Research*
 
-<li>
-<strong>Adversarial nonnegative matrix factorization</strong><br/>
-Luo, Lei and Zhang, Yanfu and Huang, Heng<br/>
-International Conference on Machine Learning
-</li>
+- **Adversarial nonnegative matrix factorization**  
+  Lei Luo, * **Yanfu Zhang** *, Heng Huang  
+  *ICML 2020*
 
-<li>
-<strong>One-year Patterns of Home Blood Pressure Monitoring Using Consumer-purchased Wireless Devices in the Health Eheart Study</strong><br/>
-Zheng, Yaguang and Zhang, Yanfu and Huang, Heng and Tison, Geoffrey H and Burke, Lora E and Olgin, Jeffrey and Marcus, Gregory M and Pletcher, Mark J<br/>
-Circulation
-</li>
+- **One-year Patterns of Home Blood Pressure Monitoring Using Consumer-purchased Wireless Devices in the Health Eheart Study**  
+  Yaguang Zheng, * **Yanfu Zhang** *, Heng Huang, Geoffrey H Tison, Lora E Burke, Jeffrey Olgin, Gregory M Marcus, Mark J Pletcher  
+  *Circulation*
 
-</ol>
 
-### 2019
+### *2019*
 
-<ol>
-<li>
-<strong>New graph-blind convolutional network for brain connectome data analysis</strong><br/>
-Zhang, Yanfu and Huang, Heng<br/>
-Information Processing in Medical Imaging: 26th International Conference, IPMI 2019, Hong Kong, China, June 2--7, 2019, Proceedings 26
-</li>
+- **New graph-blind convolutional network for brain connectome data analysis**  
+  * **Yanfu Zhang** *, Heng Huang  
+  *IPMI 2019*
 
-<li>
-<strong>Local-linear-fitting-based matting for joint hole filling and depth upsampling of RGB-D images</strong><br/>
-Zhang, Yanfu and Ding, Li and Sharma, Gaurav<br/>
-Journal of Electronic Imaging
-</li>
+- **Local-linear-fitting-based matting for joint hole filling and depth upsampling of RGB-D images**  
+  * **Yanfu Zhang** *, Li Ding, Gaurav Sharma  
+  *Journal of Electronic Imaging*
 
-<li>
-<strong>Integrating heterogeneous brain networks for predicting brain disease conditions</strong><br/>
-Zhang, Yanfu and Zhan, Liang and Cai, Weidong and Thompson, Paul and Huang, Heng<br/>
-Medical Image Computing and Computer Assisted Intervention--MICCAI 2019: 22nd International Conference, Shenzhen, China, October 13--17, 2019, Proceedings, Part IV 22
-</li>
+- **Integrating heterogeneous brain networks for predicting brain disease conditions**  
+  * **Yanfu Zhang** *, Liang Zhan, Weidong Cai, Paul Thompson, Heng Huang  
+  *MICCAI 2019*
 
-<li>
-<strong>Biological knowledge guided deep neural network for brain genotype-phenotype association study</strong><br/>
-Zhang, Yanfu and Zhan, Liang and Thompson, Paul M and Huang, Heng<br/>
-International Workshop on Multimodal Brain Image Analysis
-</li>
+- **Biological knowledge guided deep neural network for brain genotype-phenotype association study**  
+  * **Yanfu Zhang** *, Liang Zhan, Paul M Thompson, Heng Huang  
+  *MBIA Workshop*
 
-<li>
-<strong>Brain dynamics through the lens of statistical mechanics by unifying structure and function</strong><br/>
-Fortel, Igor and Butler, Mitchell and Korthauer, Laura E and Zhan, Liang and Ajilore, Olusola and Driscoll, Ira and Sidiropoulos, Anastasios and Zhang, Yanfu and Guo, Lei and Huang, Heng and others<br/>
-Medical Image Computing and Computer Assisted Intervention--MICCAI 2019: 22nd International Conference, Shenzhen, China, October 13--17, 2019, Proceedings, Part V 22
-</li>
+- **Brain dynamics through the lens of statistical mechanics by unifying structure and function**  
+  Igor Fortel, Mitchell Butler, Laura E Korthauer, Liang Zhan, Olusola Ajilore, Ira Driscoll, Anastasios Sidiropoulos, * **Yanfu Zhang** *, Lei Guo, Heng Huang, et al.  
+  *MICCAI 2019*
 
-</ol>
 
-### 2017
+### *2017*
 
-<ol>
-<li>
-<strong>Hazerd: an outdoor scene dataset and benchmark for single image dehazing</strong><br/>
-Zhang, Yanfu and Ding, Li and Sharma, Gaurav<br/>
-2017 IEEE international conference on image processing (ICIP)
-</li>
+- **Hazerd: an outdoor scene dataset and benchmark for single image dehazing**  
+  * **Yanfu Zhang** *, Li Ding, Gaurav Sharma  
+  *ICIP 2017*
 
-</ol>
 
-### 2016
+### *2016*
 
-<ol>
-<li>
-<strong>A local-linear-fitting-based matting approach for accurate depth upsampling</strong><br/>
-Zhang, Yanfu and Ding, Li and Sharma, Gaurav<br/>
-2016 IEEE Western New York Image and Signal Processing Workshop (WNYISPW)
-</li>
+- **A local-linear-fitting-based matting approach for accurate depth upsampling**  
+  * **Yanfu Zhang** *, Li Ding, Gaurav Sharma  
+  *WNYISPW 2016*
 
-</ol>
 
-### 2014
+### *2014*
 
-<ol>
-<li>
-<strong>Multi-focus image fusion based on spatial frequency in discrete cosine transform domain</strong><br/>
-Cao, Liu and Jin, Longxu and Tao, Hongjiang and Li, Guoning and Zhuang, Zhuang and Zhang, Yanfu<br/>
-IEEE signal processing letters
-</li>
-
-</ol>
+- **Multi-focus image fusion based on spatial frequency in discrete cosine transform domain**  
+  Liu Cao, Longxu Jin, Hongjiang Tao, Guoning Li, Zhuang Zhuang, * **Yanfu Zhang** *  
+  *IEEE Signal Processing Letters*
