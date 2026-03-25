@@ -69,8 +69,7 @@ nav_order: 6
 ## Master Students
 
 <ul class="simple-list">
-  <li>Student C (MS @ XXX)</li>
-  <li>Student D (MS @ XXX)</li>
+  <li>Jaidyn Vankirk (co-adviced with Gang Zhou)</li>
 </ul>
 
 ---
@@ -78,8 +77,7 @@ nav_order: 6
 ## Undergraduate Students
 
 <ul class="simple-list">
-  <li>Student E</li>
-  <li>Student F</li>
+  <li>Xuzhong Wang  (Cc-adviced with Haipeng Chen)</li>
 </ul>
 
 ---
@@ -87,8 +85,8 @@ nav_order: 6
 ## Alumni
 
 <ul class="simple-list">
-  <li>Alumni A → PhD @ XXX</li>
-  <li>Alumni B → Industry @ XXX</li>
+  <li>Jackson Taylor (BS @ WM, EMNLP×1)</li>
+  <li>Mahmud Wasif Nafee (BS@BUET -> PhD@RPI, co-advised with Haipeng Chen, EMNLP×1) </li>
 </ul>
 
 Taylor, Jackson
