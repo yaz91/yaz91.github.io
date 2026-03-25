@@ -1,4 +1,4 @@
----
+
 layout: page
 title: misc
 nav: true
@@ -13,4 +13,4 @@ children:
   - title: divider
   - title: teaching
     permalink: /teaching/
----
+
