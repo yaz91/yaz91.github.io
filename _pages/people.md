@@ -162,6 +162,6 @@ nav_order: 6
   <h2>Alumni</h2>
   <ul class="compact-list">
     <li><strong>Jackson Taylor</strong> — BS @ WM; EMNLP ×1</li>
-    <li><strong>Mahmud Wasif Nafee</strong> — BS @ BUET; now PhD student at RPI; EMNLP ×1</li>
+    <li><strong>Mahmud Wasif Nafee</strong> — BS @ BUET -> PhD @ RPI; EMNLP ×1</li>
   </ul>
 </div>
