@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-# Publications
-
 ### 2025
 
 <ol>
@@ -62,37 +60,37 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 <li>
 <strong>BilevelPruning: Unified Dynamic and Static Channel Pruning for Convolutional Neural Networks</strong><br/>
 Gao, Shangqian and Zhang, Yanfu and Huang, Feihu and Huang, Heng<br/>
-In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), in press
+In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 </li>
 
 <li>
 <strong>Device-Wise Federated Network Pruning</strong><br/>
 Gao, Shangqian and Li, Junyi and Zhang, Yanfu and Cai, Weidong and Huang, Heng<br/>
-In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), in press
+In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 </li>
 
 <li>
 <strong>Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch</strong><br/>
 Wu, Xidong and Gao, Shangqian and Zhang, Zeyu and Li, Zhenzhen and Bao, Runxue and Zhang, Yanfu and Wang, Xiaoqian and Huang, Heng<br/>
-In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), in press
+In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 </li>
 
 <li>
 <strong>Depth-Aware Concealed Crop Detection in Dense Agricultural Scenes</strong><br/>
 Wang, Liqiong and Yang, Jinyu and Zhang, Yanfu and Wang, Fangyi and Zheng, Feng<br/>
-In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), in press
+In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 </li>
 
 <li>
 <strong>Brain Image Synthesis Using Incomplete Multimodal Data</strong><br/>
 Zhang, Yanfu and Bao, Runxue and Liu, Guodong and Zhan, Liang and Thompson, Paul M. and Huang, Heng<br/>
-2024 IEEE 21th International Symposium on Biomedical Imaging (ISBI), in press
+2024 IEEE 21th International Symposium on Biomedical Imaging (ISBI)
 </li>
 
 <li>
 <strong>Neurodegenerative Disease Prediction via Transferable Deep Networks</strong><br/>
 Zhang, Yanfu and Bao, Runxue and Liu, Guodong and Zhan, Liang and Thompson, Paul M. and Huang, Heng<br/>
-2024 IEEE 21th International Symposium on Biomedical Imaging (ISBI), in press
+2024 IEEE 21th International Symposium on Biomedical Imaging (ISBI)
 </li>
 
 <li>
