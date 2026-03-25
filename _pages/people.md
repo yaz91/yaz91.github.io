@@ -145,7 +145,7 @@ nav_order: 6
 <div class="people-section">
   <h2>Master Students</h2>
   <ul class="compact-list">
-    <li><strong>Jaidyn Vankirk</strong> — BS @ William &amp; Mary, MS @ William &amp; Mary; co-advised with Gang Zhou</li>
+    <li><strong>Jaidyn Vankirk</strong> — BS @ WM, MS @ WM; co-advised with Gang Zhou</li>
     <li><strong>Yushun Liu</strong> — BS @ UVA; ISBI ×1; co-advised with Xugui Zhou</li>
     <li><strong>Chenjie Ni</strong> — BS @ SEU, MS @ Northwestern; EMNLP ×1</li>
   </ul>
@@ -154,14 +154,14 @@ nav_order: 6
 <div class="people-section">
   <h2>Undergraduate Students</h2>
   <ul class="compact-list">
-    <li><strong>Xuzhong Wang</strong> — BS @ William &amp; Mary; co-advised with Haipeng Chen</li>
+    <li><strong>Xuzhong Wang</strong> — BS @ WM; co-advised with Haipeng Chen</li>
   </ul>
 </div>
 
 <div class="people-section">
   <h2>Alumni</h2>
   <ul class="compact-list">
-    <li><strong>Jackson Taylor</strong> — BS @ William &amp; Mary; EMNLP ×1</li>
+    <li><strong>Jackson Taylor</strong> — BS @ WM; EMNLP ×1</li>
     <li><strong>Mahmud Wasif Nafee</strong> — BS @ BUET; now PhD student at RPI; EMNLP ×1</li>
   </ul>
 </div>
