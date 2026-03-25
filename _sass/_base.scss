@@ -1120,38 +1120,3 @@ swiper-container {
 }
 
 
-.people-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  column-gap: 40px;
-  row-gap: 28px;
-  margin-top: 0.8rem;
-  margin-bottom: 1.2rem;
-}
-
-.person {
-  padding: 2px 0;
-  line-height: 1.65;
-}
-
-.person .edu {
-  color: #444;
-  font-size: 0.96rem;
-}
-
-.person .research {
-  color: #444;
-  font-size: 0.96rem;
-  display: block;
-  margin-top: 0.15rem;
-}
-
-.person .contact {
-  color: #666;
-  font-size: 0.92rem;
-  margin-top: 0.3rem;
-}
-
-.simple-list {
-  line-height: 1.8;
-}
