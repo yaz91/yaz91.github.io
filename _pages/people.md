@@ -20,7 +20,7 @@ nav_order: 6
   </span><br>
 
   <span class="research">
-    Research: LLM
+    Research interest: Quantum Computing, Time Sequence
   </span>
 
   <div class="pub-summary">
@@ -37,7 +37,7 @@ nav_order: 6
   </span><br>
 
   <span class="research">
-    Research: LLM
+    Research interest: LLM Trustworthiness
   </span>
 
   <div class="pub-summary">
@@ -54,7 +54,7 @@ nav_order: 6
   </span><br>
 
   <span class="research">
-    Research: Graph Learning, Efficient LLM
+    Research interest: Graph Learning, Efficient LLM
   </span>
 
   <div class="pub-summary">
@@ -77,7 +77,7 @@ nav_order: 6
 ## Undergraduate Students
 
 <ul class="simple-list">
-  <li>Xuzhong Wang  (Cc-adviced with Haipeng Chen)</li>
+  <li>Xuzhong Wang  (co-adviced with Haipeng Chen)</li>
 </ul>
 
 ---
@@ -85,7 +85,7 @@ nav_order: 6
 ## Alumni
 
 <ul class="simple-list">
-  <li>Jackson Taylor (BS @ WM, EMNLP×1)</li>
+  <li>Jackson Taylor (BS@WM, EMNLP×1)</li>
   <li>Mahmud Wasif Nafee (BS@BUET -> PhD@RPI, co-advised with Haipeng Chen, EMNLP×1) </li>
 </ul>
 
