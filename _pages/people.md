@@ -7,153 +7,161 @@ nav_order: 6
 ---
 
 <style>
-.people-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 20px;
-  margin-top: 20px;
+.people-section {
+  margin-top: 2.5rem;
 }
 
-.person-card {
-  border: 1px solid #eee;
-  border-radius: 10px;
-  padding: 18px;
-  background: #fafafa;
-  transition: 0.2s;
-}
-
-.person-card:hover {
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-}
-
-.person-name {
-  font-size: 18px;
+.people-section h2 {
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
   font-weight: 600;
 }
 
+.people-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+}
+
+.person-entry {
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.person-entry:last-child {
+  border-bottom: none;
+}
+
+.person-name {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #222;
+}
+
 .person-year {
-  color: #888;
-  font-size: 14px;
-  margin-left: 6px;
+  color: #777;
+  font-size: 0.95rem;
+  margin-left: 0.4rem;
 }
 
-.person-section {
-  margin-top: 8px;
-  font-size: 14px;
-}
-
-.person-section span {
-  font-weight: 500;
+.person-detail {
+  margin-top: 0.35rem;
+  font-size: 0.96rem;
+  line-height: 1.65;
   color: #444;
 }
 
-.person-contact {
-  margin-top: 10px;
-  font-size: 13px;
-  color: #666;
+.person-label {
+  font-weight: 500;
+  color: #222;
+}
+
+.person-email {
+  margin-top: 0.35rem;
+  font-size: 0.95rem;
+}
+
+.person-email a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.person-email a:hover {
+  text-decoration: underline;
+}
+
+.compact-list {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.compact-list li {
+  margin-bottom: 0.55rem;
+  line-height: 1.65;
+}
+
+.compact-list strong {
+  color: #222;
 }
 </style>
 
-## PhD Students
+<div class="people-section">
+  <h2>PhD Students</h2>
 
-<div class="people-grid">
+  <div class="people-list">
+    <div class="person-entry">
+      <div class="person-name">
+        Omid Mersa <span class="person-year">(Fall 2024–present)</span>
+      </div>
+      <div class="person-detail">
+        <span class="person-label">Education:</span> BS @ Iran University of Science and Technology; MS @ University of Tehran
+      </div>
+      <div class="person-detail">
+        <span class="person-label">Research:</span> Quantum Computing, Time Series
+      </div>
+      <div class="person-detail">
+        <span class="person-label">Publications:</span> ICASSP ×1
+      </div>
+      <div class="person-email">
+        <a href="mailto:omersa@wm.edu">omersa@wm.edu</a>
+      </div>
+    </div>
 
-<div class="person-card">
-  <div class="person-name">
-    Omid Mersa <span class="person-year">(Fall 2024– )</span>
-  </div>
+    <div class="person-entry">
+      <div class="person-name">
+        Tejal Nair <span class="person-year">(Fall 2025–present)</span>
+      </div>
+      <div class="person-detail">
+        <span class="person-label">Education:</span> BS @ Cornell University; MS @ Cornell University
+      </div>
+      <div class="person-detail">
+        <span class="person-label">Research:</span> LLM Trustworthiness
+      </div>
+      <div class="person-email">
+        <a href="mailto:tnair@wm.edu">tnair@wm.edu</a>
+      </div>
+    </div>
 
-  <div class="person-section">
-    <span>Education:</span><br>
-    BS — Iran University of Science and Technology<br>
-    MS — University of Tehran
-  </div>
-
-  <div class="person-section">
-    <span>Research:</span><br>
-    Quantum Computing, Time Sequence
-  </div>
-
-  <div class="person-section">
-    <span>Publications:</span> ICASSP ×1
-  </div>
-
-  <div class="person-contact">
-    omersa@wm.edu
-  </div>
-</div>
-
-
-<div class="person-card">
-  <div class="person-name">
-    Tejal Nair <span class="person-year">(Fall 2025– )</span>
-  </div>
-
-  <div class="person-section">
-    <span>Education:</span><br>
-    BS — Cornell University<br>
-    MS — Cornell University
-  </div>
-
-  <div class="person-section">
-    <span>Research:</span><br>
-    LLM Trustworthiness
-  </div>
-
-  <div class="person-contact">
-    tnair@wm.edu
-  </div>
-</div>
-
-
-<div class="person-card">
-  <div class="person-name">
-    Maiqi Jiang <span class="person-year">(Fall 2025– )</span>
-  </div>
-
-  <div class="person-section">
-    <span>Education:</span><br>
-    BS — Northeastern University (Shenyang)<br>
-    MS — Hong Kong Polytechnic University
-  </div>
-
-  <div class="person-section">
-    <span>Research:</span><br>
-    Graph Learning, Efficient LLM
-  </div>
-
-  <div class="person-section">
-    <span>Publications:</span> EMNLP ×1, ICASSP ×2
-  </div>
-
-  <div class="person-contact">
-    mjiang04@wm.edu
+    <div class="person-entry">
+      <div class="person-name">
+        Maiqi Jiang <span class="person-year">(Fall 2025–present)</span>
+      </div>
+      <div class="person-detail">
+        <span class="person-label">Education:</span> BS @ Northeastern University (Shenyang); MS @ Hong Kong Polytechnic University
+      </div>
+      <div class="person-detail">
+        <span class="person-label">Research:</span> Graph Learning, Efficient LLMs
+      </div>
+      <div class="person-detail">
+        <span class="person-label">Publications:</span> EMNLP ×1, ICASSP ×2
+      </div>
+      <div class="person-email">
+        <a href="mailto:mjiang04@wm.edu">mjiang04@wm.edu</a>
+      </div>
+    </div>
   </div>
 </div>
 
+<div class="people-section">
+  <h2>Master Students</h2>
+  <ul class="compact-list">
+    <li><strong>Jaidyn Vankirk</strong> — BS @ William &amp; Mary, MS @ William &amp; Mary; co-advised with Gang Zhou</li>
+    <li><strong>Yushun Liu</strong> — BS @ UVA; ISBI ×1; co-advised with Xugui Zhou</li>
+    <li><strong>Chenjie Ni</strong> — BS @ SEU, MS @ Northwestern; EMNLP ×1</li>
+  </ul>
 </div>
 
----
+<div class="people-section">
+  <h2>Undergraduate Students</h2>
+  <ul class="compact-list">
+    <li><strong>Xuzhong Wang</strong> — BS @ William &amp; Mary; co-advised with Haipeng Chen</li>
+  </ul>
+</div>
 
-## Master Students
-
-<ul>
-  <li><strong>Jaidyn Vankirk</strong> (co-advised with Gang Zhou)</li>
-</ul>
-
----
-
-## Undergraduate Students
-
-<ul>
-  <li><strong>Xuzhong Wang</strong> (co-advised with Haipeng Chen)</li>
-</ul>
-
----
-
-## Alumni
-
-<ul>
-  <li><strong>Jackson Taylor</strong> — BS@WM, EMNLP ×1</li>
-  <li><strong>Mahmud Wasif Nafee</strong> — BS@BUET → PhD@RPI, EMNLP ×1</li>
-</ul>
+<div class="people-section">
+  <h2>Alumni</h2>
+  <ul class="compact-list">
+    <li><strong>Jackson Taylor</strong> — BS @ William &amp; Mary; EMNLP ×1</li>
+    <li><strong>Mahmud Wasif Nafee</strong> — BS @ BUET; now PhD student at RPI; EMNLP ×1</li>
+  </ul>
+</div>
