@@ -12,19 +12,21 @@ nav_order: 6
 <div class="people-list">
 
 <div class="person">
-  <strong>Tejal Nair</strong> <span class="year">(2024– )</span><br>
+  <strong>Omid Mersa</strong> <span class="year">(2024– )</span><br>
   
   <span class="edu">
+    Education:
     BS @ Iran University of Science and Technology, 
     MS @ University of Tehran
   </span><br>
 
   <span class="research">
-    Research interest: Quantum Computing, Time Sequence
+    Research interests: Quantum Computing, Time Sequence · 
+    Publications: ICASSP ×1
   </span>
 
-  <div class="pub-summary">
-    Publications: ICASSP ×1
+  <div class="contact">
+    Contact: omersa@wm.edu
   </div>
 </div>
 
@@ -32,16 +34,17 @@ nav_order: 6
   <strong>Tejal Nair</strong> <span class="year">(2025– )</span><br>
   
   <span class="edu">
+    Education:
     BS @ Cornell University, 
     MS @ Cornell University
   </span><br>
 
   <span class="research">
-    Research interest: LLM Trustworthiness
+    Research interests: LLM Trustworthiness
   </span>
 
-  <div class="pub-summary">
-    Publications: To appear
+  <div class="contact">
+    Contact: tnair@wm.edu
   </div>
 </div>
 
@@ -49,16 +52,17 @@ nav_order: 6
   <strong>Maiqi Jiang</strong> <span class="year">(2025– )</span><br>
   
   <span class="edu">
+    Education:
     BS @ Northeastern University (Shenyang), 
     MS @ The Hong Kong Polytechnic University
   </span><br>
 
   <span class="research">
-    Research interest: Graph Learning, Efficient LLM
+    Research interests: Graph Learning, Efficient LLM · Publications: EMNLP ×1, ICASSP ×2
   </span>
 
-  <div class="pub-summary">
-    Publications: EMNLP ×1, ICASSP ×2
+  <div class="contact">
+    Contact: mjiang04@wm.edu
   </div>
 </div>
 
@@ -89,4 +93,3 @@ nav_order: 6
   <li>Mahmud Wasif Nafee (BS@BUET -> PhD@RPI, co-advised with Haipeng Chen, EMNLP×1) </li>
 </ul>
 
-Taylor, Jackson
