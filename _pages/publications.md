@@ -40,6 +40,10 @@ nav_order: 2
 
 ### *2024*
 
+- **Unlocking Memorization in Large Language Models with Dynamic Soft Prompting**  
+  Zhepeng Wang, Runxue Bao, Yawen Wu, Jackson Taylor, Cao Xiao, Feng Zheng, Weiwen Jiang, Shangqian Gao, **Yanfu Zhang**  
+  *EMNLP 2024*
+  
 - **BilevelPruning: Unified Dynamic and Static Channel Pruning for Convolutional Neural Networks**  
   Shangqian Gao, **Yanfu Zhang**, Feihu Huang, Heng Huang  
   *CVPR 2024*
