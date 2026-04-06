@@ -100,7 +100,7 @@ nav_order: 6
         <span class="person-label">Research:</span> Quantum Computing, Time Series
       </div>
       <div class="person-detail">
-        <span class="person-label">Publications:</span> ICASSP ×1
+        <span class="person-label">Publications:</span> ICASSP ×1, CHASE ×1 (one as first author)
       </div>
       <div class="person-email">
         <a href="mailto:omersa@wm.edu">omersa@wm.edu</a>
@@ -116,6 +116,9 @@ nav_order: 6
       </div>
       <div class="person-detail">
         <span class="person-label">Research:</span> LLM Trustworthiness
+      </div>
+      <div class="person-detail">
+        <span class="person-label">Publications:</span> ACL ×1 (one as first author)
       </div>
       <div class="person-email">
         <a href="mailto:tnair@wm.edu">tnair@wm.edu</a>
@@ -133,7 +136,7 @@ nav_order: 6
         <span class="person-label">Research:</span> Graph Learning, Efficient LLMs
       </div>
       <div class="person-detail">
-        <span class="person-label">Publications:</span> EMNLP ×1, ICASSP ×2
+        <span class="person-label">Publications:</span> EMNLP ×1, ICASSP ×2, ACL ×1 (two as first author)
       </div>
       <div class="person-email">
         <a href="mailto:mjiang04@wm.edu">mjiang04@wm.edu</a>
@@ -146,8 +149,8 @@ nav_order: 6
   <h2>Master Students</h2>
   <ul class="compact-list">
     <li><strong>Jaidyn Vankirk</strong> — BS @ WM, MS @ WM; co-advised with Gang Zhou</li>
-    <li><strong>Yushun Liu</strong> — BS @ UVA; ISBI ×1; co-advised with Xugui Zhou</li>
-    <li><strong>Chenjie Ni</strong> — BS @ SEU, MS @ Northwestern; EMNLP ×1</li>
+    <li><strong>Yushun Liu</strong> — BS @ UVA; ISBI ×1 (one as first author); co-advised with Xugui Zhou</li>
+    <li><strong>Chenjie Ni</strong> — BS @ SEU, MS @ Northwestern; EMNLP ×1 (one as first author)</li>
   </ul>
 </div>
 
@@ -162,6 +165,6 @@ nav_order: 6
   <h2>Alumni</h2>
   <ul class="compact-list">
     <li><strong>Jackson Taylor</strong> — BS @ WM; EMNLP ×1</li>
-    <li><strong>Mahmud Wasif Nafee</strong> — BS @ BUET -> PhD @ RPI; EMNLP ×1</li>
+    <li><strong>Mahmud Wasif Nafee</strong> — BS @ BUET -> PhD @ RPI; EMNLP ×1, ACL ×1 (one as first author)</li>
   </ul>
 </div>
