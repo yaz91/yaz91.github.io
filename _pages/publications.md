@@ -14,7 +14,7 @@ nav_order: 2
   *ACL findings 2026*
   
 - **AffectCodec: Emotion-Preserving Neural Speech Codec for Expressive Speech Modeling**  
-  Jiacheng Shi, Hongfei Du, Xinyuan Song, Y. Alicia Hong, **Yanfu Zhang**, Ye Gao
+  Jiacheng Shi, Hongfei Du, Xinyuan Song, Y. Alicia Hong, **Yanfu Zhang**, Ye Gao  
   *ACL findings 2026*
   
 - **IMUVIE: Generalizable Pickup Measurement via Motion Movies**  
