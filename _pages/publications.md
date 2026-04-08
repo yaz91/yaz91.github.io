@@ -10,7 +10,7 @@ nav_order: 2
 ### *2026*
 
 - **Confidence-Aware Ranker Ensembles for Robust In-Context Knowledge Editing**  
-  Tejal Nair, Mahmud Wasif Nafee, Maiqi JIANG, Ye Gao, Haipeng Chen, **Yanfu Zhang**  
+  Tejal Nair, Mahmud Wasif Nafee, Maiqi Jiang, Ye Gao, Haipeng Chen, **Yanfu Zhang**  
   *ACL findings 2026*
   
 - **AffectCodec: Emotion-Preserving Neural Speech Codec for Expressive Speech Modeling**  
