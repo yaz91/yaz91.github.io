@@ -7,6 +7,32 @@ nav: true
 nav_order: 2
 ---
 
+### *2026*
+
+- **Confidence-Aware Ranker Ensembles for Robust In-Context Knowledge Editing**  
+  Tejal Nair, Mahmud Wasif Nafee, Maiqi JIANG, Ashley Gao, Haipeng Chen, **Yanfu Zhang**  
+  *ACL findings 2026*
+  
+- **AffectCodec: Emotion-Preserving Neural Speech Codec for Expressive Speech Modeling**  
+  Jiacheng Shi, Hongfei Du, Xinyuan Song, Y. Alicia Hong, **Yanfu Zhang**, Ashley Gao
+  *ACL findings 2026*
+  
+- **IMUVIE: Generalizable Pickup Measurement via Motion Movies**  
+  John Clapham, Matthew Chen, Omid Mersa, Kenneth Koltermann, **Yanfu Zhang**, Yuming Sun, Evie N. Burnet, Gang Zhou
+  *CHASE 2026*
+  
+- **Pairs, not Labels: Predicting Protein-Phenotpe Association via Link Prediction**  
+  Maiqi Jiang, Yanshuo Chen, Guodong Liu, Avinash Sahu, Ye Gao, **Yanfu Zhang**  
+  *ICASSP 2026*
+  
+- **Hierarchical Convolution Multibranch Transformer for EEG Signals**  
+  Omid Mersa, Maiqi Jiang, Ye Gao, Qun Li, , **Yanfu Zhang**  
+  *ICASSP 2026*
+  
+- **Integrating Neural Differential Forecasting with Safe Reinforcement Learning for Blood Glucose Regulation**  
+  Yushen Liu, **Yanfu Zhang**, Xugui Zhou
+  *ISBI 2026*
+
 ### *2025*
 
 - **Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization**  
