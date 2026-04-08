@@ -23,7 +23,9 @@ I am an assistant professor in the Department of Computer Science at the College
 
 <span style="color:red">Multiple PhD Positions in Data Mining and Machine Learning at the College of William & Mary.</span>
 The College of William & Mary (WM) is the second oldest university in the US. WM is one of only eight U.S. universities designated a "Public Ivy." 
-If you are interested in working with me, feel free to email me. Students from all backgrounds are welcome.
+We especially encourage applications from students with strong backgrounds in computer science, electrical and computer engineering, mathematics, statistics, physics, and related quantitative disciplines. Prior experience in machine learning or data mining is welcome but not strictly required for candidates with solid analytical and theoretical training.
+
+If you are interested in working with me, please feel free to reach out via email.
 
 <!---
 please submit this <a href="https://forms.gle/rWF96PhAzJDdPwpD8">Googe form</a>
