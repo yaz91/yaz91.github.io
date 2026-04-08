@@ -18,7 +18,7 @@ nav_order: 2
   *ACL findings 2026*
   
 - **IMUVIE: Generalizable Pickup Measurement via Motion Movies**  
-  John Clapham, Matthew Chen, Omid Mersa, Kenneth Koltermann, **Yanfu Zhang**, Yuming Sun, Evie N. Burnet, Gang Zhou
+  John Clapham, Matthew Chen, Omid Mersa, Kenneth Koltermann, **Yanfu Zhang**, Yuming Sun, Evie N. Burnet, Gang Zhou  
   *CHASE 2026*
   
 - **Pairs, not Labels: Predicting Protein-Phenotpe Association via Link Prediction**  
