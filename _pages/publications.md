@@ -26,11 +26,11 @@ nav_order: 2
   *ICASSP 2026*
   
 - **Hierarchical Convolution Multibranch Transformer for EEG Signals**  
-  Omid Mersa, Maiqi Jiang, Ye Gao, Qun Li, , **Yanfu Zhang**  
+  Omid Mersa, Maiqi Jiang, Ye Gao, Qun Li, **Yanfu Zhang**  
   *ICASSP 2026*
   
 - **Integrating Neural Differential Forecasting with Safe Reinforcement Learning for Blood Glucose Regulation**  
-  Yushen Liu, **Yanfu Zhang**, Xugui Zhou
+  Yushen Liu, **Yanfu Zhang**, Xugui Zhou  
   *ISBI 2026*
 
 
