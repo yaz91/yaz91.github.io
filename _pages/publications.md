@@ -33,6 +33,7 @@ nav_order: 2
   Yushen Liu, **Yanfu Zhang**, Xugui Zhou
   *ISBI 2026*
 
+
 ### *2025*
 
 - **Dynamic Retriever for In-Context Knowledge Editing via Policy Optimization**  
