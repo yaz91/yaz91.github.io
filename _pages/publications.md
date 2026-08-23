@@ -10,39 +10,39 @@ nav_order: 2
 ### *2026*
 
 - **Reinforcement Learning Based Entanglement Scheduling in Satellite Quantum Networks**  
-  Omid Mersa, **Yanfu Zhang**, Qun Li
+  Omid Mersa, **Yanfu Zhang**, Qun Li  
   *MILCOM 2026*
 
 - **GeoMotionGPT: Geometry-Aligned Motion Understanding with Large Language Models**  
-  Zhankai Ye, Bofan Li, Yukai Jin, Shuoqiu Li, Wei Wang, **Yanfu Zhang**, Shangqian Gao, Xin Liu
+  Zhankai Ye, Bofan Li, Yukai Jin, Shuoqiu Li, Wei Wang, **Yanfu Zhang**, Shangqian Gao, Xin Liu  
   *EMNLP 2026*
 
 - **Usage-Modulated Sentiment Representations in Large Language Models**  
-  Hongfei Du, Jiacheng Shi, **Yanfu Zhang**, Gang Zhou, Ashley Gao
+  Hongfei Du, Jiacheng Shi, **Yanfu Zhang**, Gang Zhou, Ashley Gao  
   *EMNLP 2026*
 
 - **Tracing a Sparse Emotion-Control Circuit in LLM-Based Text-to-Speech**  
-  Hongfei Du, Jiacheng Shi, **Yanfu Zhang**, Ashley Gao
+  Hongfei Du, Jiacheng Shi, **Yanfu Zhang**, Ashley Gao  
   *EMNLP 2026*
 
 - **Enabling Confidence-Aware Control of Effective Memorization in Large Language Models**  
-  Chenjie Ni, Omid Mersa, Zhepeng Wang, Runxue Bao, Qun Li, Shangqian Gao, **Yanfu Zhang**
+  Chenjie Ni, Omid Mersa, Zhepeng Wang, Runxue Bao, Qun Li, Shangqian Gao, **Yanfu Zhang**  
   *EMNLP 2026*
 
 - **Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning**  
-  Xuzhong Wang, Maiqi Jiang, Tejal Nair, Girija Bhusal, **Yanfu Zhang**, Haipeng Chen
+  Xuzhong Wang, Maiqi Jiang, Tejal Nair, Girija Bhusal, **Yanfu Zhang**, Haipeng Chen  
   *EMNLP Findings 2026*
 
 - **LitGene: An Interpretable Transformer Model Integrating Text and Ontology for Gene Representation Learning**  
-  Oladimeji Macaulay, Ala Jararweh, David Arredondo, Luis Tafoya, Shrey Poshiya, Yue Hu, Olufunmilola Oyebamiji, **Yanfu Zhang**, Christopher I. Amos, Kushal Virupakshappa, Avinash Sahu
+  Oladimeji Macaulay, Ala Jararweh, David Arredondo, Luis Tafoya, Shrey Poshiya, Yue Hu, Olufunmilola Oyebamiji, **Yanfu Zhang**, Christopher I. Amos, Kushal Virupakshappa, Avinash Sahu  
   *Nature Communications*
 
 - **Emo-BPO: Emotion Bidirectional Preference Optimization for Diffusion-based Emotional TTS**  
-  Jiacheng Shi, Hongfei Du, Xinyuan Song, Y. Alicia Hong, **Yanfu Zhang**, Ashley Gao
+  Jiacheng Shi, Hongfei Du, Xinyuan Song, Y. Alicia Hong, **Yanfu Zhang**, Ashley Gao  
   *Interspeech 2026*
 
 - **Training-Free Inference for High-Resolution Sinogram Completion**  
-  Jiaze E, Srutarshi Banerjee, Tekin Bicer, Guannan Wang, **Yanfu Zhang**, Bin Ren
+  Jiaze E, Srutarshi Banerjee, Tekin Bicer, Guannan Wang, **Yanfu Zhang**, Bin Ren  
   *IJCAI 2026*
 
 - **Confidence-Aware Ranker Ensembles for Robust In-Context Knowledge Editing**  
