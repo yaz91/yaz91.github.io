@@ -150,7 +150,7 @@ nav_order: 6
   <ul class="compact-list">
     <li><strong>Yushun Liu</strong> — BS @ UVA -> MS @ Northwestern; ISBI ×1 (1 as first author); co-advised with Xugui Zhou</li>
     <li><strong>Chenjie Ni</strong> — BS @ SEU -> MS @ Northwestern; EMNLP ×2 (2 as first author)</li>
-    <li><strong>Ali Noman</strong> — BS @ Panjab University -> MS @ TUM</li>
+    <li><strong>Noman Ali</strong> — BS @ Panjab University -> MS @ TUM</li>
     <li><strong>Zhen Xu</strong> — BS, MS @ NYU</li>
     <li><strong>Yiran Ding</strong> — BS @ Hunan University, MS @ Brown</li>
     <li><strong>Girija Bhusal</strong> — BS @ Tribhuvan University; EMNLP ×1</li>
