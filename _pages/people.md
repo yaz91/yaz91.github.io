@@ -161,7 +161,7 @@ nav_order: 6
   <h2>Undergraduate Students</h2>
   <ul class="compact-list">
     <li><strong>Xuzhong Wang</strong> — BS @ WM; EMNLP ×1 (1 as first author); co-advised with Haipeng Chen</li>
-    <li><strong>Jack Stawasz</strong> — BS @ WM; Supported by NSF REU</li>
+    <li><strong>Jack Stawasz</strong> — BS @ WM; supported by NSF REU</li>
   </ul>
 </div>
 
