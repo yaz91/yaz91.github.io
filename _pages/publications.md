@@ -31,7 +31,7 @@ nav_order: 2
 
 - **Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning**  
   Xuzhong Wang, Maiqi Jiang, Tejal Nair, Girija Bhusal, **Yanfu Zhang**, Haipeng Chen  
-  *EMNLP Findings 2026*
+  *EMNLP findings 2026*
 
 - **LitGene: An Interpretable Transformer Model Integrating Text and Ontology for Gene Representation Learning**  
   Oladimeji Macaulay, Ala Jararweh, David Arredondo, Luis Tafoya, Shrey Poshiya, Yue Hu, Olufunmilola Oyebamiji, **Yanfu Zhang**, Christopher I. Amos, Kushal Virupakshappa, Avinash Sahu  
