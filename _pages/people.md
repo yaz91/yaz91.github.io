@@ -148,7 +148,6 @@ nav_order: 6
 <div class="people-section">
   <h2>Master Students</h2>
   <ul class="compact-list">
-    <li><strong>Jaidyn Vankirk</strong> — BS @ WM, MS @ WM; co-advised with Gang Zhou</li>
     <li><strong>Yushun Liu</strong> — BS @ UVA -> MS @ Northwestern; ISBI ×1 (1 as first author); co-advised with Xugui Zhou</li>
     <li><strong>Chenjie Ni</strong> — BS @ SEU -> MS @ Northwestern; EMNLP ×2 (2 as first author)</li>
     <li><strong>Ali Noman</strong> — BS @ Panjab University -> MS @ TUM</li>
@@ -169,6 +168,7 @@ nav_order: 6
 <div class="people-section">
   <h2>Alumni</h2>
   <ul class="compact-list">
+    <li><strong>Jaidyn Vankirk</strong> — BS @ WM, MS @ WM; co-advised with Gang Zhou</li>
     <li><strong>Jackson Taylor</strong> — BS @ WM; EMNLP ×1</li>
     <li><strong>Mahmud Wasif Nafee</strong> — BS @ BUET -> PhD @ RPI; EMNLP ×1, ACL ×1 (1 as first author)</li>
   </ul>
