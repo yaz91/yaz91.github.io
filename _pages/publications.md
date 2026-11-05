@@ -9,6 +9,10 @@ nav_order: 2
 
 ### *2026*
 
+- **Shared-Shape Conformal Prediction for Subgroup-Valid Multivariate Regions in Connectome Prediction**  
+  Kai Ye, Yingying Zhang, Lei Guo, **Yanfu Zhang**, Heng Huang, Paul Thompson, Haoteng Tang, and Liang Zhan
+  *BIBM 2026 Workshop*
+
 - **Reinforcement Learning Based Entanglement Scheduling in Satellite Quantum Networks**  
   Omid Mersa, **Yanfu Zhang**, Qun Li  
   *MILCOM 2026*
